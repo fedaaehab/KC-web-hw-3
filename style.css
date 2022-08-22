@@ -1,0 +1,9 @@
+*{
+    font-family: 'Caveat', cursive;
+    background-color:#d1e0a2 ; 
+    scroll-behavior: smooth;
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
